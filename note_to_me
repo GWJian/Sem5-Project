@@ -1,0 +1,8 @@
+- host ID, top 10 propety by host and earn by them
+    [use host_listing and price]
+- also review for the host ID
+- compare availbaty with min night
+- scatter plot hot area and price
+    [use Availability_365,price and (review maybe dont use it) to get the popular area
+    then only use that to do scatter plot]
+
