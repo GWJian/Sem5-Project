@@ -19,7 +19,7 @@ This project explores Airbnb listings in New York City using the AB_NYC_2019 dat
 If using Git, clone the repository using the following command:
 
 \```sh
-git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone (https://github.com/GWJian/Sem5-Project.git)
 \```
 
 Otherwise, download the ZIP file from your GitHub repository.
@@ -41,7 +41,11 @@ Execute the Python script(s) that perform the data cleaning, exploration, and vi
 
 ## Data Description
 
-The AB_NYC_2019 dataset includes columns for...
+Provide a brief overview of the AB_NYC_2019 dataset, including the columns and their meanings. You can include a link to the dataset source if available.
+
+## School Project:
+
+This project was created for a school assignment.
 
 ## Disclaimer
 
