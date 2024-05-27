@@ -1,6 +1,6 @@
-Title: NYC Airbnb Analysis - 2019 Data Exploration
+## Title: NYC Airbnb Analysis - 2019 Data Exploration
 
-Description:
+## Description:
 This project delves into the fascinating world of Airbnb listings in New York City using the AB_NYC_2019 dataset. It explores various aspects of these listings, including:
 
 Data Cleaning: Techniques employed to ensure the data's accuracy and consistency for reliable analysis.
